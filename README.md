@@ -1,6 +1,6 @@
 ![Network Circuit Theory](https://github.com/user-attachments/assets/82c5df4f-09a7-4585-9b12-75e38b6389b2)
 
-> Theoretical circuit and network simulator and development assistant.
+> Theoretical circuit or network simulator and development assistant.
 
 #
 
