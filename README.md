@@ -18,6 +18,8 @@ The approach taken by this custom GPT is professional and knowledgeable, yet app
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Computational Networks](https://github.com/sourceduty/Computational_Networks)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
