@@ -1,4 +1,4 @@
-![Network Circuit Theory](https://github.com/user-attachments/assets/82c5df4f-09a7-4585-9b12-75e38b6389b2)
+![Neuron](https://github.com/user-attachments/assets/a2b2fabe-2f61-4729-9fef-c660c814ee1c)
 
 > Theoretical circuit or network simulator and development assistant.
 
